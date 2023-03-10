@@ -1,0 +1,65 @@
+﻿<Window x:Class="Lab3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,0,72">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnComplex_Click" Content="Обчислити Complex" HorizontalAlignment="Left" Height="59" Margin="87,255,0,0" VerticalAlignment="Top" Width="243" Click="BtnCalculate_Click"/>
+        <TextBox x:Name="txtReal1" HorizontalAlignment="Left" Height="25" Margin="75,85,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="146" RenderTransformOrigin="1.343,2.589">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.566"/>
+                    <TranslateTransform X="-1.052" Y="2.391"/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox x:Name="txtReal2" HorizontalAlignment="Left" Height="20" Margin="72,51,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150"/>
+        <TextBox x:Name="txtImaginary1" HorizontalAlignment="Left" Height="23" Margin="275,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="87" RenderTransformOrigin="0.691,1.904">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.003"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox x:Name="txtImaginary2" HorizontalAlignment="Left" Height="20" Margin="273,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="89"/>
+        <Label x:Name="lblResult" HorizontalAlignment="Left" Margin="72,127,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.847,-1.106" Width="63"/>
+        <Label Content="Re" HorizontalAlignment="Left" Margin="44,51,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.089,-0.749"/>
+        <Label Content="Im" HorizontalAlignment="Left" Margin="248,45,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.085,-0.056"/>
+        <Label Content="Re" HorizontalAlignment="Left" Margin="44,82,0,0" VerticalAlignment="Top"/>
+        <Label Content="Im" HorizontalAlignment="Left" Margin="248,90,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="txtResult" Content="" HorizontalAlignment="Left" Margin="72,233,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmbOperation" HorizontalAlignment="Left" Margin="72,127,0,0" VerticalAlignment="Top" Width="120">
+            <Button Content="Add"/>
+            <Button Content="Subtract"/>
+            <Button Content="Multiply"/>
+            <Button Content="Divide"/>
+        </ComboBox>
+        <Button x:Name="btnCalculateMoney" Content="Обчислити Money" HorizontalAlignment="Left" Margin="508,255,0,0" VerticalAlignment="Top" Width="217" Height="59" Click="btnCalculateMoney_Click"/>
+        <TextBox x:Name="txtGrn1" HorizontalAlignment="Left" Height="20" Margin="477,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="125"/>
+        <TextBox x:Name="txtGrn2" HorizontalAlignment="Left" Height="20" Margin="477,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="125"/>
+        <TextBox x:Name="txtCop1" HorizontalAlignment="Left" Height="20" Margin="657,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="125"/>
+        <TextBox x:Name="txtCop2" HorizontalAlignment="Left" Height="20" Margin="657,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="125"/>
+        <Label Content="Грн" HorizontalAlignment="Left" Margin="442,51,0,0" VerticalAlignment="Top"/>
+        <Label Content="Грн" HorizontalAlignment="Left" Margin="442,85,0,0" VerticalAlignment="Top"/>
+        <Label Content="Коп" HorizontalAlignment="Left" Margin="627,51,0,0" VerticalAlignment="Top"/>
+        <Label Content="Коп" HorizontalAlignment="Left" Margin="627,90,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmbOperationMoney" HorizontalAlignment="Left" Margin="477,127,0,0" VerticalAlignment="Top" Width="120">
+            <Button Content="Add"/>
+            <Button Content="Subtract"/>
+            <Button Content="Multiply"/>
+            <Button Content="Divide"/>
+        </ComboBox>
+
+    </Grid>
+</Window>
