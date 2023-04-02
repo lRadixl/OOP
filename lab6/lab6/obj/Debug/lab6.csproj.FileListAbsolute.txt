@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\Admin\source\repos\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\Admin\source\repos\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\Admin\source\repos\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\Admin\source\repos\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\Admin\source\repos\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\Admin\source\repos\lab6\lab6\obj\Debug\lab6.pdb
