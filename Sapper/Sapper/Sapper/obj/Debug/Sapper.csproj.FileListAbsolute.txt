@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\OOP\Sapper\Sapper\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\Admin\Desktop\OOP\Sapper\Sapper\Sapper\bin\Debug\Sapper.exe
+C:\Users\Admin\Desktop\OOP\Sapper\Sapper\Sapper\bin\Debug\Sapper.pdb
+C:\Users\Admin\Desktop\OOP\Sapper\Sapper\Sapper\obj\Debug\Sapper.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOP\Sapper\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\Admin\Desktop\OOP\Sapper\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OOP\Sapper\Sapper\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP\Sapper\Sapper\Sapper\obj\Debug\Sapper.exe
+C:\Users\Admin\Desktop\OOP\Sapper\Sapper\Sapper\obj\Debug\Sapper.pdb
+C:\Users\Admin\Desktop\OOP\Sapper\Sapper\Sapper\obj\Debug\Sapper.Form1.resources
