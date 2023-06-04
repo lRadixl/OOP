@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\OOP\lab19\lab19\bin\Debug\lab19.exe.config
+C:\Users\Admin\Desktop\OOP\lab19\lab19\bin\Debug\lab19.exe
+C:\Users\Admin\Desktop\OOP\lab19\lab19\bin\Debug\lab19.pdb
+C:\Users\Admin\Desktop\OOP\lab19\lab19\bin\Debug\System.CodeDom.dll
+C:\Users\Admin\Desktop\OOP\lab19\lab19\bin\Debug\System.CodeDom.xml
+C:\Users\Admin\Desktop\OOP\lab19\lab19\obj\Debug\lab19.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOP\lab19\lab19\obj\Debug\lab19.Form1.resources
+C:\Users\Admin\Desktop\OOP\lab19\lab19\obj\Debug\lab19.Properties.Resources.resources
+C:\Users\Admin\Desktop\OOP\lab19\lab19\obj\Debug\lab19.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OOP\lab19\lab19\obj\Debug\lab19.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP\lab19\lab19\obj\Debug\lab19.csproj.CopyComplete
+C:\Users\Admin\Desktop\OOP\lab19\lab19\obj\Debug\lab19.exe
+C:\Users\Admin\Desktop\OOP\lab19\lab19\obj\Debug\lab19.pdb
